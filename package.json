@@ -12,5 +12,8 @@
     "project"
   ],
   "author": "Zarina Kaytukova",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "lodash": "^4.17.21"
+  }
 }
